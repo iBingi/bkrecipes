@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bingiz Kitchen - Recipes</title>
+    <description>The purpose of Bingiz Kitchen is to spread popular &amp; every-green Indian recipes, in particular south-indian, to all, across geographies, through intuitive video making of cooking.  This channel would bring you both VEG &amp; NON-VEG recipe shows. You can check our well curated playlists to watch your favourite recipes.  You would certainly agree that food taste would vary from person to person even though following the same recipe.  So by giving unique watching experience as if you are cooking at your own kitchen, you can bring the same taste as close as possible. Further requesting you all to share your views/comments and suggestions to keep this channel more vibrant and useful.  Hope you all would enjoy watching videos and help spreading this channel to max possible.  Watch out to see more exciting, engaging, delicious and interesting videos from Bingiz Kitchen.</description>
+    <link>http://localhost:4000/mediumish-theme-jekyll/</link>
+    <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 24 Mar 2019 16:33:36 +0530</pubDate>
+    <lastBuildDate>Sun, 24 Mar 2019 16:33:36 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Falooda</title>
+        <description>&lt;p&gt;Falooda - Summer special recipes - drinks/dessert.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Mar 2019 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/bk-falooda-recipe/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/bk-falooda-recipe/</guid>
+        
+        <category>Desserts</category>
+        
+        
+        <category>SummerDrinks</category>
+        
+      </item>
+    
+  </channel>
+</rss>
