@@ -4,7 +4,7 @@ title:  "Falooda"
 author: bingiz
 categories: [ SummerDrinks ]
 tags: [Desserts]
-image: assets/images/falooda.JPG
+image: assets/images/falooda.png
 description: "Falooda - Summer special recipes - drinks/dessert"
 featured: true
 hidden: true
