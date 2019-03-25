@@ -56,4 +56,4 @@ adsense-data-ad-client: ""
 adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+lazyimages: "disabled"
